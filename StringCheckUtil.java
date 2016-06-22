@@ -1,4 +1,3 @@
-package org.hahaqu.app.lockbankaccount.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
