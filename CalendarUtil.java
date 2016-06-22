@@ -1,4 +1,3 @@
-package org.hahaqu.app.lockbankaccount.util;
 
 import java.util.Calendar;
 import java.util.Date;
